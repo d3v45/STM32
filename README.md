@@ -7,7 +7,7 @@ Welcome to the STM32 Projects repository! This folder contains two exciting proj
 
 ## Projects
 
-### 1. [UART Communication](./uartcommunication)
+### 1. [UART Communication](./UART Communication)
 
 This project demonstrates **UART communication** on the STM32 Blue Pill. It covers the steps to set up, develop, and flash the code, allowing you to use UART for serial communication between the STM32 board and a PC.
 
